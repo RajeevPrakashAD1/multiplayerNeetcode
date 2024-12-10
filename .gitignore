@@ -1,0 +1,27 @@
+# Ignore Visual Studio files
+.idea/
+.vs/
+*.csproj
+*.sln
+*.user
+
+# Ignore Unity specific files and folders
+Library/
+Temp/
+Obj/
+Build/
+build/
+newBuild.apk
+Logs/
+
+# Ignore project-specific files
+Multiplayer_BurstDebugInformation_DoNotShip/
+Packages/
+ProjectSettings/
+UserSettings/
+Assets/
+
+# Ignore specific project files
+Assembly-CSharp.csproj
+IngameDebugConsole.Editor.csproj
+
